@@ -1,24 +1,24 @@
 {
-  "name": "JalaliJSCalendar",
-  "version": "0.0.2",
-  "homepage": "https://github.com/parmenides/JalaliJSCalendar",
-  "authors": [
-    "Payam Yousefi <root.p.y@gmail.com>"
-  ],
-  "description": "JalaliJSCalendar is a JavaScript DHTML Calendar based on \"Dynarch DHTML Calendar\" from \"Mihai Bazon\". The main difference between them is that JalaliJSCalendar supports Persian calendar (aka jalali calendar), that is the official iranian calendar.",
-  "main": "http://farhadi.ir/projects/jalalijscalendar",
-  "moduleType": [
-    "amd"
-  ],
-  "keywords": [
-    "PersianCalendar"
-  ],
-  "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ]
+    "name" : "JalaliJSCalendar",
+    "version" : "0.0.2",
+    "homepage" : "https://github.com/parmenides/JalaliJSCalendar",
+    "authors" : [
+        "Payam Yousefi <root.p.y@gmail.com>"
+    ],
+    "description" : "JalaliJSCalendar is a JavaScript DHTML Calendar based on \"Dynarch DHTML Calendar\" from \"Mihai Bazon\". The main difference between them is that JalaliJSCalendar supports Persian calendar (aka jalali calendar), that is the official iranian calendar.",
+    "main" : "./dist/calendar.js",
+    "moduleType" : [
+        "amd"
+    ],
+    "keywords" : [
+        "PersianCalendar"
+    ],
+    "license" : "MIT",
+    "ignore" : [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
 }
