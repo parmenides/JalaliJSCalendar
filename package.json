@@ -1,0 +1,33 @@
+{
+  "name": "JalaliJSCalendar",
+  "version": "0.0.1",
+  "description": "JalaliJSCalendar v1.4 -------------------   Author: Ali Farhadi (http://farhadi.ir/)   Released under the terms of the GNU Public License.   See the GPL for details (http://www.gnu.org/licenses/gpl.html).",
+  "main": "Gruntfile.js",
+  "directories": {
+    "doc": "doc",
+    "example": "examples"
+  },
+  "dependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-concat": "~0.4.0",
+    "grunt-contrib-uglify": "~0.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/parmenides/JalaliJSCalendar.git"
+  },
+  "keywords": [
+    "PersianCalendar",
+    "JalaliJSCalendar"
+  ],
+  "author": "Payam Yousefi",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/parmenides/JalaliJSCalendar/issues"
+  },
+  "homepage": "https://github.com/parmenides/JalaliJSCalendar"
+}
