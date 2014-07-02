@@ -4,6 +4,11 @@ JalaliJSCalendar v1.4
   Released under the terms of the GNU Public License.
   See the GPL for details (http://www.gnu.org/licenses/gpl.html).
 
+Install
+-------------------
+  Install it using bower:
+  bower install JalaliJSCalendar 
+
 Based on The DHTML Calendar
 -------------------
   Author: Mihai Bazon, <mihai_bazon@yahoo.com>
