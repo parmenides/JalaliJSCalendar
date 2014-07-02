@@ -1,6 +1,6 @@
 {
   "name": "JalaliJSCalendar",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "JalaliJSCalendar v1.4 -------------------   Author: Ali Farhadi (http://farhadi.ir/)   Released under the terms of the GNU Public License.   See the GPL for details (http://www.gnu.org/licenses/gpl.html).",
   "main": "Gruntfile.js",
   "directories": {
