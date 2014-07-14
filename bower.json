@@ -6,7 +6,7 @@
         "Payam Yousefi <root.p.y@gmail.com>"
     ],
     "description" : "JalaliJSCalendar is a JavaScript DHTML Calendar based on \"Dynarch DHTML Calendar\" from \"Mihai Bazon\". The main difference between them is that JalaliJSCalendar supports Persian calendar (aka jalali calendar), that is the official iranian calendar.",
-    "main" : "./dist/calendar.js",
+    "main" : ["./dist/calendar.js","./skins/calendar-green.css"],
     "moduleType" : [
         "amd"
     ],
